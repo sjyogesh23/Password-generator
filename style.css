@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    padding-right: 10px;
+  }
+  
+  input[type="number"] {
+    width: 50px;
+  }
+  
+  button {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+  }
+  
